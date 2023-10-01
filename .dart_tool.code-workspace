@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../shopcart-master/shopcart-master/.dart_tool"
+		},
+		{
+			"path": "../shopcart-master/shopcart-master/android"
+		},
+		{
+			"path": "../shopcart-master/shopcart-master/assets"
+		},
+		{
+			"path": "../shopcart-master/shopcart-master/ios"
+		},
+		{
+			"path": "../shopcart-master/shopcart-master/lib"
+		},
+		{
+			"path": "../shopcart-master/shopcart-master/linux"
+		},
+		{
+			"path": "../shopcart-master/shopcart-master/server"
+		},
+		{
+			"path": "../shopcart-master/shopcart-master/test"
+		},
+		{
+			"path": "../shopcart-master/shopcart-master/web"
+		}
+	]
+}
